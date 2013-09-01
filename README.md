@@ -16,5 +16,8 @@ Google Chrome (all versions)
 Opera 7+
 See the jshashtable website for full documentation.
 
-Version 3.0 released
+____
+
+###Version 3.0 released
+
 Version 3.0 is released today (16th July 2013). It fixes  issue 2 ,  issue 3 ,  issue 5 ,  issue 6 ,  issue 7 , adds new equals() and toQueryString() methods and drops support for IE 5.0. Also includes jshashset and documentation in the zip.
